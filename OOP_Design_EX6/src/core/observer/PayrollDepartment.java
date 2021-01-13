@@ -1,4 +1,4 @@
-package core;
+package core.observer;
 
 public class PayrollDepartment implements IObserver {
 
